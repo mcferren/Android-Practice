@@ -2,4 +2,20 @@
 
     <string name="app_name">Tipping Calculator</string>
 
+    <string name="billTotal">Bill total:</string>
+
+    <string name="tenView">10%</string>
+
+    <string name="fifteenView">15%</string>
+
+    <string name="twentyView">20%</string>
+
+    <string name="tip">Tip</string>
+
+    <string name="zero">0.00</string>
+
+    <string name="total">Total</string>
+
+    <string name="custom">Custom</string>
+
 </resources>
