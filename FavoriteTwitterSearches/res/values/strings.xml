@@ -17,9 +17,9 @@
     <string name="OK">OK</string>
     <string name="missingTitle">Missing Text</string>
     <string name="missingMessage">
-        Please entera seach query and tag it.</string>
+        Please entera search query and tag it.</string>
     <string name="confirmTitle">Are you sure?</string>
-    <string name="">
+    <string name="confirmMessage">
     	This will delete all saved searches</string>
 
 </resources>

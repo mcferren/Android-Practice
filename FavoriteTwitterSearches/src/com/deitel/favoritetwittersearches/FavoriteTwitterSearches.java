@@ -9,7 +9,7 @@ public class FavoriteTwitterSearches extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_favorite_twitter_searches);
+	    setContentView(R.layout.main); // set the layout
 	}
 
 	@Override
