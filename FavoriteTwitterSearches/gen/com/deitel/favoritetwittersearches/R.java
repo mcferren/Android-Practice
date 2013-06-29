@@ -25,11 +25,18 @@ public final class R {
         public static final int editButtonWidth=0x7f050003;
         public static final int tagButtonWidth=0x7f050002;
     }
+    public static final class dimens {
+        public static final int editButtonWidth=0x7f0a0001;
+        public static final int tagButtonWidth=0x7f0a0000;
+    }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int button2=0x7f09000c;
+        public static final int clearTagsButton=0x7f09000c;
+        public static final int newEditButton=0x7f09000f;
+        public static final int newTagButton=0x7f09000e;
+        public static final int newTagTableRow=0x7f09000d;
         public static final int queryEditText=0x7f090002;
         public static final int queryScrollView=0x7f090009;
         public static final int queryTableLayout=0x7f09000a;
@@ -45,6 +52,7 @@ public final class R {
     }
     public static final class layout {
         public static final int main=0x7f030000;
+        public static final int new_tag_view=0x7f030001;
     }
     public static final class menu {
         public static final int favorite_twitter_searches=0x7f080000;
