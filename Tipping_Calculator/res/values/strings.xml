@@ -8,7 +8,7 @@
     <string name="twentyView">20%</string>
     <string name="tip">Tip</string>
     <string name="zero">0.00</string>
-    <string name="total">Total</string>
+    <string name="total">Totals</string>
     <string name="custom">Custom</string>
     <string name="title_activity_tip_calculator">TipCalculator</string>
     <string name="action_settings">Settings</string>
