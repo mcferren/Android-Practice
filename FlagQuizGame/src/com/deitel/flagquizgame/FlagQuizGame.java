@@ -1,5 +1,6 @@
 package com.deitel.flagquizgame;
 
+<<<<<<< HEAD
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -52,10 +53,18 @@ public class FlagQuizGame extends Activity {
 	private ImageView flagImageView;
 	private TableLayout buttonTabeLayout;
 	
+=======
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+
+public class FlagQuizGame extends Activity {
+>>>>>>> 183e27355b4d711ade1aa81cd861699287dec8d0
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+<<<<<<< HEAD
 		setContentView(R.layout.main);
 		
 		fileNameList = new ArrayList<String>();
@@ -385,5 +394,16 @@ public class FlagQuizGame extends Activity {
 		}
 	};
 	
+=======
+		setContentView(R.layout.activity_flag_quiz_game);
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.flag_quiz_game, menu);
+		return true;
+	}
+>>>>>>> 183e27355b4d711ade1aa81cd861699287dec8d0
 
 }
