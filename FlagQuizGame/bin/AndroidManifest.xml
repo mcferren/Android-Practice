@@ -12,19 +12,11 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-<<<<<<< HEAD
-        android:theme="@style/AppTheme" 
-        >
-        <activity
-            android:name="com.deitel.flagquizgame.FlagQuizGame"
-            android:label="@string/app_name" 
-        	android:screenOrientation="portrait">
-=======
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.deitel.flagquizgame.FlagQuizGame"
-            android:label="@string/app_name" >
->>>>>>> 183e27355b4d711ade1aa81cd861699287dec8d0
+            android:label="@string/app_name" 
+        	android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -17,13 +17,8 @@
     <string name="ok">OK</string>
     <string name="question">Question</string>
     <string name="quiz_title">Ten Questin Flag Quix</string>
-<<<<<<< HEAD
     <string name="regions">Select Regions</string>
     <string name="reset_quiz">Reset Quiz</string>
-=======
-    <string name="regions">Hello world!</string>
-    <string name="reset_quiz">Hello world!</string>
->>>>>>> 183e27355b4d711ade1aa81cd861699287dec8d0
     
     <string-array name="regionsList">
     	<item>Africa</item>
